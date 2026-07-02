@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 
 const SERVICE_ID = 'service_zkmc1um';
-const TEMPLATE_ID = 'template_6ma8gkx';
+const TEMPLATE_ID = 'template_o6u769m';
 const PUBLIC_KEY = 'bOZiDMGdzrZIKWMIc';
 
 const injectStyles = () => {
